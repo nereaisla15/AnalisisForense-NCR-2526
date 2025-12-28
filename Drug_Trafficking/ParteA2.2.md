@@ -272,3 +272,19 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 - **Hashes:** MD5 `6fe69a3ad25893e824b7c40e252f96a8` / SHA-256 `9d51fd7fabfa93a72fcc7b947cc88d12536834756597b7dcf8b155eaf6f5d7c0`  
 
 ---
+## Archivos cifrados y comprimidos
+
+Durante el análisis del sistema, se identificaron varios archivos que se encontraban en formatos comprimidos y protegidos mediante cifrado, lo que sugiere que podrían contener información sensible. Entre los archivos recuperados destacan:
+
+- `pedofilia.zip`  
+- `Contactes.xls`  
+
+![archivos-cifrados](/pruebas/ficheros_encriptados/fichero1.png)  
+
+Tras la investigación, fue posible determinar la titularidad de cada uno de estos ficheros:  
+
+- El archivo **`pedofilia.zip`** estaba vinculado al usuario **Ian**.  
+  ![pedofilia](/pruebas/ficheros_encriptados/pedofilia.png)  
+
+- El archivo **`Contactes.xls`** pertenecía al usuario **John**.  
+  ![contactos](/pruebas/ficheros_encriptados/contactos.png)  

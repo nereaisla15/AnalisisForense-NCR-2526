@@ -58,3 +58,25 @@ Se han identificado las cuentas configuradas en el sistema. Excluyendo las prede
 - ![Jessy](/pruebas/usuarios/usuario2.png)
 
 ---
+
+## Inconsistencias temporales detectadas
+
+Se ha detectado una discrepancia entre las fechas de inicio de sesión y la fecha de instalación del sistema:
+
+- **John:** último inicio de sesión 28/03/2013 – 03:10:49  
+- **Fecha de instalación del sistema:** 18/04/2013 – 15:17:02 (UTC)  
+
+Esto indica que hubo actividad registrada en un sistema que, según los registros, aún no estaba instalado. Posibles explicaciones:
+
+- **Restauración desde copia de seguridad:** El sistema pudo haber sido reinstalado o restaurado desde una imagen anterior, conservando los registros antiguos.  
+- **Manipulación intencionada:** Alguien podría haber alterado las fechas para ocultar actividades o generar confusión.  
+
+Este tipo de inconsistencias es relevante en investigaciones forenses, ya que puede evidenciar modificaciones del sistema o reutilización de configuraciones previas.
+
+## Extracción de Archivos Eliminados
+
+Se han recuperado múltiples archivos del sistema, con sus metadatos completos y hashes de integridad. A continuación se presenta un registro organizado por archivo, incluyendo vista previa, fechas relevantes, tamaño, ubicación y hashes MD5 y SHA-256.
+
+![Ruta](/pruebas/archivos_eliminados/ruta1.png)  
+
+---

@@ -38,3 +38,23 @@ Para la realización de esta actividad se van a utilizar las siguientes herramie
 | **Fecha y hora del último “shutdown”** | 19/06/2013 2:11:46 |
 | **Pruebas** | ![Foto2](/pruebas/sistema/sistema2.png)  |
 
+## Análisis de cuentas de usuario
+
+Se han identificado las cuentas configuradas en el sistema. Excluyendo las predeterminadas, los usuarios personalizados son los siguientes:
+
+### John
+- **Último inicio de sesión:** 28/03/2013 – 03:10:49  
+- **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
+- ![John](/pruebas/usuarios/usuario1.png)
+
+### Ian
+- **Último inicio de sesión:** 25/04/2013 – 02:06:52  
+- **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
+- ![Ian](/pruebas/usuarios/usuario3.png)
+
+### Jessy
+- **Último inicio de sesión:** 23/04/2013 – 02:18:56  
+- **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
+- ![Jessy](/pruebas/usuarios/usuario2.png)
+
+---

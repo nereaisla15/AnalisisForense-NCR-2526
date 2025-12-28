@@ -311,10 +311,10 @@ No se localizaron, hasta el momento, otros archivos directamente relacionados co
 Este procedimiento garantiza que se mantenga la cadena de custodia y que los hallazgos puedan presentarse de manera sólida en el contexto de una investigación judicial.
 
 - Prueba search
-  ![search](/pruebas/ficheros_encriptados/search.png)  
+  ![search](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/Search.PNG)  
 
 - Prueba webhistory 
-  ![Web History](/pruebas/ficheros_encriptados/webhistory.png)  
+  ![Web History](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/webhistory.png)  
 
 - Prueba webookmarks 
-  ![Web Bookmark ](/pruebas/ficheros_encriptados/webbookmark.png)  
+  ![Web Bookmark ](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/webbookmark.png)  

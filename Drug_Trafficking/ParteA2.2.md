@@ -289,7 +289,7 @@ Tras la investigación, fue posible determinar la titularidad de cada uno de est
 - El archivo **`Contactes.xls`** pertenecía al usuario **John**.  
   ![contactos](/pruebas/ficheros_encriptados/contactos.png)  
 
-### Hallazgos adicionales y acciones forenses
+### Hallazgos y acciones forenses
 
 No se localizaron, hasta el momento, otros archivos directamente relacionados con conductas delictivas distintas de las mencionadas. Sin embargo, como perito informático, se recomienda llevar a cabo las siguientes acciones para garantizar la integridad de la evidencia y ampliar la investigación:
 
@@ -310,3 +310,11 @@ No se localizaron, hasta el momento, otros archivos directamente relacionados co
 
 Este procedimiento garantiza que se mantenga la cadena de custodia y que los hallazgos puedan presentarse de manera sólida en el contexto de una investigación judicial.
 
+- Prueba search
+  ![search](/pruebas/ficheros_encriptados/search.png)  
+
+- Prueba webhistory 
+  ![Web History](/pruebas/ficheros_encriptados/webhistory.png)  
+
+- Prueba webookmarks 
+  ![Web Bookmark ](/pruebas/ficheros_encriptados/webbookmark.png)  

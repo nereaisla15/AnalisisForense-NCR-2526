@@ -288,3 +288,25 @@ Tras la investigación, fue posible determinar la titularidad de cada uno de est
 
 - El archivo **`Contactes.xls`** pertenecía al usuario **John**.  
   ![contactos](/pruebas/ficheros_encriptados/contactos.png)  
+
+### Hallazgos adicionales y acciones forenses
+
+No se localizaron, hasta el momento, otros archivos directamente relacionados con conductas delictivas distintas de las mencionadas. Sin embargo, como perito informático, se recomienda llevar a cabo las siguientes acciones para garantizar la integridad de la evidencia y ampliar la investigación:
+
+1. **Verificación de integridad:**  
+   - Generar y registrar hashes (MD5 y SHA-256) de cada archivo para asegurar que no se alteren durante el análisis.
+
+2. **Análisis de contenido cifrado:**  
+   - Intentar descifrar o acceder a los contenidos de los archivos mediante métodos legales y autorizados, respetando la cadena de custodia.
+
+3. **Identificación de metadatos:**  
+   - Extraer metadatos de los archivos comprimidos y de los documentos para determinar fecha de creación, modificación, autoría y posibles rastros de actividad ilícita.
+
+4. **Registro de evidencia:**  
+   - Documentar cuidadosamente cada paso realizado, con capturas, rutas de archivo y logs de análisis para incluirlos en el informe final.
+
+5. **Correlación de usuarios y ficheros:**  
+   - Relacionar cada archivo con su respectivo propietario dentro del sistema y establecer un seguimiento de posibles vínculos con otras actividades delictivas.
+
+Este procedimiento garantiza que se mantenga la cadena de custodia y que los hallazgos puedan presentarse de manera sólida en el contexto de una investigación judicial.
+

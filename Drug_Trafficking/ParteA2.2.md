@@ -28,7 +28,7 @@ Para la realización de esta actividad se van a utilizar las siguientes herramie
 | Información del sistema |  |
 | :---- | :---- |
 | **Tamaño de la partición (Byte)** | 2623832064 |
-| **Prueba** | ![Sistema](/pruebas/sistema/sistema1.png) |
+| **Prueba** | ![Sistema](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/sistema/sistema1.PNG) |
 | **Sistema y versión del SO** | Microsoft Windows XP |
 | **Nombres de usuarios registrados** | John |
 | **Organización registrada** | home |

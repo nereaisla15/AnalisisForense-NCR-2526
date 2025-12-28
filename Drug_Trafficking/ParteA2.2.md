@@ -36,7 +36,7 @@ Para la realización de esta actividad se van a utilizar las siguientes herramie
 | **“Service Pack” instalado** | Service Pack 3 |
 | **Fecha y hora de instalación del sistema operativo** | 18 de abril de 2013 a las 15:17:02 (UTC) |
 | **Fecha y hora del último “shutdown”** | 19/06/2013 2:11:46 |
-| **Pruebas** | ![Foto2](/pruebas/sistema/sistema2.png)  |
+| **Pruebas** | ![Foto2](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/sistema/sistema2.PNG)  |
 
 ## Análisis de cuentas de usuario
 
@@ -45,17 +45,17 @@ Se han identificado las cuentas configuradas en el sistema. Excluyendo las prede
 ### John
 - **Último inicio de sesión:** 28/03/2013 – 03:10:49  
 - **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
-- ![John](/pruebas/usuarios/usuario1.png)
+- ![John](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/usuarios/usuario1.PNG)
 
 ### Ian
 - **Último inicio de sesión:** 25/04/2013 – 02:06:52  
 - **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
-- ![Ian](/pruebas/usuarios/usuario3.png)
+- ![Ian](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/usuarios/usuario3.PNG)
 
 ### Jessy
 - **Último inicio de sesión:** 23/04/2013 – 02:18:56  
 - **Último cambio de contraseña:** 18/04/2013 – 15:18:44  
-- ![Jessy](/pruebas/usuarios/usuario2.png)
+- ![Jessy](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/usuarios/usuario2.PNG)
 
 ---
 
@@ -77,13 +77,13 @@ Este tipo de inconsistencias es relevante en investigaciones forenses, ya que pu
 
 Se han recuperado múltiples archivos del sistema, con sus metadatos completos y hashes de integridad. A continuación se presenta un registro organizado por archivo, incluyendo vista previa, fechas relevantes, tamaño, ubicación y hashes MD5 y SHA-256.
 
-![Ruta](/pruebas/archivos_eliminados/ruta1.png)  
+![Ruta](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/ruta1.PNG)  
 
 ---
 
 ### **Almacen Mataró 2**
 - **Archivo:** `Almacen mataro 2.jpg`  
-- **Vista previa:** ![mataro2](/pruebas/archivos_eliminados/almacen_mataro2.png)  
+- **Vista previa:** ![mataro2](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_mataro2.PNG)  
 - **Fechas importantes:**  
   - Modificación: 27/03/2013 06:39:14 CET  
   - Creación/Acceso: 19/06/2013 04:11:24 CEST  
@@ -95,7 +95,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Almacen Mataró 3**
 - **Archivo:** `Almacen mataro 3.jpg`  
-- **Vista previa:** ![mataro3](/pruebas/archivos_eliminados/almacen_mataro3.png)  
+- **Vista previa:** ![mataro3](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_mataro3.PNG)  
 - **Fechas:** Modificación 27/03/2013 06:39:26 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 14.399 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Almacen mataro 3.jpg`  
@@ -105,7 +105,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Almacen Mataró**
 - **Archivo:** `Almacen mataro.jpg`  
-- **Vista previa:** ![mataro](/pruebas/archivos_eliminados/almacen_mataro.png)  
+- **Vista previa:** ![mataro](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_mataro.PNG)  
 - **Fechas:** Modificación 27/03/2013 06:39:04 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 6.998 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Almacen mataro.jpg`  
@@ -115,7 +115,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Almacen Terrassa 3**
 - **Archivo:** `Almacen terrassa 3.jpg`  
-- **Vista previa:** ![terrasa3](/pruebas/archivos_eliminados/almacen_terrassa3.png)  
+- **Vista previa:** ![terrasa3](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_terrassa3.png)  
 - **Fechas:** Modificación 27/03/2013 06:39:42 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 6.943 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Almacen terrassa 3.jpg`  
@@ -125,7 +125,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Almacen Terrassa 4**
 - **Archivo:** `Almacen terrassa 4.jpg`  
-- **Vista previa:** ![terrasa4](/pruebas/archivos_eliminados/almacen_terrassa4.png)  
+- **Vista previa:** ![terrasa4](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_terrassa4.png)  
 - **Fechas:** Modificación 27/03/2013 06:40:28 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 7.349 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Almacen terrassa 4.jpg`  
@@ -135,7 +135,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Almacen Terrassa**
 - **Archivo:** `Almacen terrassa.jpg`  
-- **Vista previa:** ![terrasa](/pruebas/archivos_eliminados/almacen_terrassa.png)  
+- **Vista previa:** ![terrasa](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/almacen_terrassa.png)  
 - **Fechas:** Modificación 27/03/2013 06:20:50 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 9.637 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Almacen terrassa.jpg`  
@@ -145,7 +145,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Coca**
 - **Archivo:** `coca.jpg`  
-- **Vista previa:** ![coca](/pruebas/archivos_eliminados/coca.png)  
+- **Vista previa:** ![coca](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/coca.png)  
 - **Fechas:** Modificación 27/03/2013 06:19:58 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 5.777 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/coca.jpg`  
@@ -155,7 +155,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Fabricando Coca 2**
 - **Archivo:** `fabricando coca 2.jpg`  
-- **Vista previa:** ![fabricando-coca2](/pruebas/archivos_eliminados/fabricando_coca2.png)  
+- **Vista previa:** ![fabricando-coca2](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/fabricando_coca2.png)  
 - **Fechas:** Modificación 27/03/2013 06:42:34 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 14.373 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/fabricando coca 2.jpg`  
@@ -165,7 +165,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Fabricando Coca 3**
 - **Archivo:** `fabricando coca 3.jpg`  
-- **Vista previa:** ![fabricando-coca3](/pruebas/archivos_eliminados/fabricando_coca3.png)  
+- **Vista previa:** ![fabricando-coca3](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/fabricando_coca3.png)  
 - **Fechas:** Modificación 27/03/2013 06:43:20 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 9.994 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/fabricando coca 3.jpg`  
@@ -175,7 +175,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Fabricando Coca 4**
 - **Archivo:** `fabricando coca 4.jpg`  
-- **Vista previa:** ![fabricando-coca4](/pruebas/archivos_eliminados/fabricando_coca4.png)  
+- **Vista previa:** ![fabricando-coca4](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/fabricando_coca4.png)  
 - **Fechas:** Modificación 27/03/2013 06:43:30 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 12.608 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/fabricando coca 4.jpg`  
@@ -185,7 +185,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Fabricando Coca**
 - **Archivo:** `fabricando coca.jpg`  
-- **Vista previa:** ![fabricando-coca](/pruebas/archivos_eliminados/fabricando_coca.png)  
+- **Vista previa:** ![fabricando-coca](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/fabricando_coca.png)  
 - **Fechas:** Modificación 27/03/2013 06:42:28 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 6.413 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/fabricando coca.jpg`  
@@ -195,7 +195,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Fiesta Jorge**
 - **Archivo:** `fiesta Jorge.jpg`  
-- **Vista previa:** ![fiesta-jorge](/pruebas/archivos_eliminados/fiesta_jorge.png)  
+- **Vista previa:** ![fiesta-jorge](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/fiesta_jorge.png)  
 - **Fechas:** Modificación 27/03/2013 06:20:20 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 8.905 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/fiesta Jorge.jpg`  
@@ -205,7 +205,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Kasius 2**
 - **Archivo:** `kasius 2.jpg`  
-- **Vista previa:** ![kasius-2](/pruebas/archivos_eliminados/kasius2.png)  
+- **Vista previa:** ![kasius-2](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/kasius2.png)  
 - **Fechas:** Modificación 27/03/2013 06:42:04 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 5.716 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/kasius 2.jpg`  
@@ -215,7 +215,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Kasius**
 - **Archivo:** `kasius.jpg`  
-- **Vista previa:** ![kasius](/pruebas/archivos_eliminados/kasius.png)  
+- **Vista previa:** ![kasius](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/kasius.png)  
 - **Fechas:** Modificación 27/03/2013 06:41:58 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 9.175 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/kasius.jpg`  
@@ -225,7 +225,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Maria en negocio Jorge**
 - **Archivo:** `Maria en negocio Jorge.jpg`  
-- **Vista previa:** ![maria](/pruebas/archivos_eliminados/maria.png)  
+- **Vista previa:** ![maria](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/maria.png)  
 - **Fechas:** Modificación 27/03/2013 06:38:30 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 5.083 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Maria en negocio Jorge.jpg`  
@@ -235,7 +235,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Mercancia 2**
 - **Archivo:** `mercancia 2.jpg`  
-- **Vista previa:** ![mercancia-2](/pruebas/archivos_eliminados/mercancia2.png)  
+- **Vista previa:** ![mercancia-2](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/mercancia2.png)  
 - **Fechas:** Modificación 27/03/2013 06:21:06 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 8.620 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/mercancia 2.jpg`  
@@ -245,7 +245,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Mercancia Terrassa**
 - **Archivo:** `Mercancia terrassa.jpg`  
-- **Vista previa:** ![mercancia-terrassa](/pruebas/archivos_eliminados/mercancia_terrassa.png)  
+- **Vista previa:** ![mercancia-terrassa](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/mercancia_terrassa.png)  
 - **Fechas:** Modificación 27/03/2013 06:38:52 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 8.968 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/Mercancia terrassa.jpg`  
@@ -255,7 +255,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Mercancia**
 - **Archivo:** `mercancia.jpg`  
-- **Vista previa:** ![mercancia](/pruebas/archivos_eliminados/mercancia.png)  
+- **Vista previa:** ![mercancia](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/mercancia.png)  
 - **Fechas:** Modificación 27/03/2013 06:20:08 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 6.917 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/mercancia.jpg`  
@@ -265,7 +265,7 @@ Se han recuperado múltiples archivos del sistema, con sus metadatos completos y
 
 ### **Pastillas**
 - **Archivo:** `pastillas.jpg`  
-- **Vista previa:** ![pastillas](/pruebas/archivos_eliminados/pastilla.png)  
+- **Vista previa:** ![pastillas](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/archivos_eliminados/pastilla.png)  
 - **Fechas:** Modificación 27/03/2013 06:19:22 CET / Creación/Acceso 19/06/2013 04:11:24 CEST  
 - **Tamaño:** 12.942 bytes  
 - **Ubicación:** `/img_AFI_W.E01/$OrphanFiles/pastillas.jpg`  
@@ -279,15 +279,15 @@ Durante el análisis del sistema, se identificaron varios archivos que se encont
 - `pedofilia.zip`  
 - `Contactes.xls`  
 
-![archivos-cifrados](/pruebas/ficheros_encriptados/fichero1.png)  
+![archivos-cifrados](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/fichero1.png)  
 
 Tras la investigación, fue posible determinar la titularidad de cada uno de estos ficheros:  
 
 - El archivo **`pedofilia.zip`** estaba vinculado al usuario **Ian**.  
-  ![pedofilia](/pruebas/ficheros_encriptados/pedofilia.png)  
+  ![pedofilia](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/pedofilia.png)  
 
 - El archivo **`Contactes.xls`** pertenecía al usuario **John**.  
-  ![contactos](/pruebas/ficheros_encriptados/contactos.png)  
+  ![contactos](https://github.com/nereaisla15/AnalisisForense-NCR-2526/blob/main/Drug_Trafficking/pruebas/ficheros_encriptados/contactos.png)  
 
 ### Hallazgos y acciones forenses
 
